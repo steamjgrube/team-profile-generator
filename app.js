@@ -144,6 +144,7 @@ function addHtml(member) {
                     You can reach me at ${email}
                     <br>
                     <div>ID: ${id}</div>
+                    <div> Github: <a href="github.com/${gitHub}">${gitHub}</a>
                   </div>
                 </div>
               </div>
@@ -174,6 +175,7 @@ function addHtml(member) {
                     You can reach me at ${email}
                     <br>
                     <div>ID: ${id}</div>
+                    <div> Github: <a href="github.com/${gitHub}">${gitHub}</a>
                   </div>
                 </div>
               </div>
@@ -204,6 +206,7 @@ function addHtml(member) {
                     You can reach me directly at ${officePhone} or ${email}
                     <br>
                     <div>ID: ${id}</div>
+                    <div> Github: <a href="github.com/${gitHub}">${gitHub}</a>
                   </div>
                 </div>
               </div>
